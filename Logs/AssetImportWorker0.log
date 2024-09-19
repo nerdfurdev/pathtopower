@@ -225,3 +225,12 @@ Start importing Assets/ideas using Guid(3823090ccb3d7e79f97b247825831dec) Import
  -> (artifact id: '1069ae634c82bca54f7fcf01a3934657') in 0.000788 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 124.633418 seconds.
+  path: Assets/ideas.game
+  artifactKey: Guid(3823090ccb3d7e79f97b247825831dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ideas.game using Guid(3823090ccb3d7e79f97b247825831dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2c2adb9ac8e8a8653991caa2ac41e3bc') in 0.000807 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
